@@ -69,6 +69,4 @@ This InterSystems IRIS app fetches currency data from a web source and stores it
 
 - Ensure that the directory mapping is correctly set up in your Docker Compose file, allowing the CSV file to be saved in the desired location.
 
-- Replace `dc.sample.CurrentData` with the actual class name in your application.
-
 - The currency data is fetched from the URL: [https://www.x-rates.com/table/?from=ZAR&amount=1](https://www.x-rates.com/table/?from=ZAR&amount=1)
